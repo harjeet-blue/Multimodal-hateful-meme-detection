@@ -5,7 +5,7 @@ Given a memes classify wheather is it offensive or not.
 ## We have tried 3 models  
 **model 1 :- Only Image (Visual Modality)  
 model 2 :- Onlt Text  (Text Modality)  
-model 3 :- Image + Text (Visual + text seq)**
+model 3 :- Image + Text Mulitmodal ( Visual + text seq)**
 
 ## Accracies  
 **model 1 :- 54 %  
